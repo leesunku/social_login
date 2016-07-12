@@ -1,4 +1,4 @@
-# social_login 소셜 로그인 연동 예제입니다.
+# social_login 소셜 로그인 연동 예제입니다.(naver -> google -> facebook)
 ###### 환경 - 스프링 프로젝트 생성시 기본 설정 되어있는 java 1.6 / spring frammework 3.1.1
 
 ## 2016 - 07 - 11
