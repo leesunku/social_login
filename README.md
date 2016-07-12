@@ -7,3 +7,11 @@
 ## 2016 - 07 - 12
 #### 0 네이버 개발자 센터에서 api 사용 요청 - https://developers.naver.com/register
 #### 1.1. 세션 유지 및 위조 방지용 상태 토큰 생성
+
+
+
+
+
+
+
+## 참고 문서 - https://developers.naver.com/docs/login/web
