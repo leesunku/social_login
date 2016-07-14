@@ -10,14 +10,14 @@
 </script>
 <script type="text/javascript">
 $(function(){
-	$("#loginBte").click(function(){
-	location.href = "login";
+	$("#naverLoginBte").click(function(){
+	location.href = "naverLogin";
 	});
 });
 </script>
 </head>
 <body>
 <h1>소셜 로그인 메인 페이지</h1>
-<button id="loginBte">네이버 아이디로 로그인</button>
+<button id="naverLoginBte">네이버 아이디로 로그인</button>
 </body>
 </html>
